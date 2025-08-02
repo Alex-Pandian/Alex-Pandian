@@ -10,24 +10,21 @@
 ### 🧑‍💻 About Me
 
 - 🔭 I’m currently working on:  
-  `Cricket Live Score App`, `Aquarium Management System`, `Classroom Management`, `Placement Connect`, and more.
+  `Online chat application`
 
 - 🌱 I’m currently learning:  
-  **Computer Networks**, **Machine Learning**, and **System Design**
+  **MERN**
 
 - 🧪 My Tech Stack:  
   `MongoDB`, `Express.js`, `React`, `Node.js`, `Tailwind CSS`, `Java`, `Android`, `SQL`, `Python`
 
 - 🛠 Tools I use:  
-  `VS Code`, `Postman`, `Git`, `Vercel`, `Render`, `Figma`
+  `VS Code`, `Postman`, `Git`, `Vercel`, `Render`, `Canva`
 
-- 💬 Ask me about:  
-  Anything related to **Web Development**, **APIs**, **React**, or **Android Development**
 
 - 📫 Reach me at:  
   **Email**: [alexpandian11205@gmail.com](mailto:alexpandian11205@gmail.com)  
-  **LinkedIn**: [Your LinkedIn URL]  
-  **Portfolio**: [Your Portfolio URL]
+  **LinkedIn**: [https://www.linkedin.com/in/alexpandianm/]  
 
 ---
 
@@ -35,10 +32,7 @@
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| 🏏 **Cricket Live Score App** | React, Node, API | Live match scores & commentary |
-| 🐠 **Aquarium Manager** | MERN | Manage fish tank parameters |
-| 🏫 **Classroom App** | React + Tailwind | Student-teacher dashboard with auth |
-| 🧑‍💼 **Placement Connect** | MongoDB + Node.js | Portal to manage campus placements |
+
 
 ---
 
@@ -64,4 +58,3 @@
 
 ---
 
-**⭐️ Don't forget to star your favorite repositories!**
