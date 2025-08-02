@@ -32,7 +32,8 @@
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-
+| Internal Event Management System | MERN | managing the internal department eventes |
+| Online Chat Application | MERN | seamless intration with friends | 
 
 ---
 
